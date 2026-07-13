@@ -9,7 +9,6 @@ I build software for industrial automation, mobile and desktop applications, ful
 - Developing reusable industrial HMI components at MESAR Process & Equipment
 - Working with FactoryTalk Optix, Studio 5000 Logix, PlantPAx, and C# NetLogic
 - Completing a bachelor's degree in Software Engineering at Université Laval
-- Vice-President of the IEEE Student Branch at Université Laval
 - Supporting 14 project teams as Project Lead for the Artificial Intelligence Club
 
 ## Selected projects
